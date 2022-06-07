@@ -1,5 +1,10 @@
 # whatsapp_automation
 
+### API
+    ### /whatsapp/api
+    
+    ### Method : POST
+
 ### Technology
    * Python
    * Django
