@@ -1,9 +1,9 @@
 # whatsapp_automation
 
 ### API
-    ### /whatsapp/api
+    -> /whatsapp/api
     
-    ### Method : POST
+    -> Method : POST
 
 ### Technology
    * Python
