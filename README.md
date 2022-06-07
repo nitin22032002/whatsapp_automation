@@ -11,6 +11,13 @@
    * Twilio
    * sqlite3
 
+### Installation
+
+    * pip install django
+    * pip install twilio
+    * pip install lorem_text
+    * pip install whitenoise
+
 ### Step To Setup
   - Clone The project
   - git clone https://github.com/nitin22032002/whatsapp_automation.git
